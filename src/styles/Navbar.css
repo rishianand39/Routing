@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+ ul{
+	background-color: green;
+	list-style: none;
+	overflow: auto;
+
+}
+ li{
+	color: white;
+	padding: 10px 15px;
+     display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+
+}
